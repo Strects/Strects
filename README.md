@@ -1,1 +1,1 @@
-![Cover](https://imgur.com/Lvwgiyk)
+![Cover](Cover.png)
